@@ -1,1 +1,1 @@
-# mini_game
+# mini javascript projects
